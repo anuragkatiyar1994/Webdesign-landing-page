@@ -13,4 +13,4 @@ This was created to learn the core concept of flex box and a custom hamburger wa
 ## ⌚ Time Taken to make this project:
 It took me around 2 hours to complete this.
 ## image of the project 
-![alt text](./webdesign-img.jpg)
+![alt text](./images/webdesign-img.jpg)
